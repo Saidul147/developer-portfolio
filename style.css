@@ -48,6 +48,11 @@ p{
 .experience h1{
     font-size: 40px;
 }
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
 .experience h3{
     color: orange;
 }
@@ -65,4 +70,8 @@ p{
 .baby_developer{
     border-image: linear-gradient(180deg,blue,cyan);
     border-image-slice: 1;
+}
+.footer{
+    text-align: center;
+    margin-top: 150px;
 }
