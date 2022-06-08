@@ -1,0 +1,34 @@
+body{
+    font-family: Poppins, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 50px;
+}
+.span_color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.top_banner{
+  background-image:url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.half_width{
+    width: 50%;
+    padding:0px 5%;
+}
+.half_width img{
+    width: 90%;
+}
+.hire_link{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background:linear-gradient(45deg,lightsalmon,tomato);
+    border-radius: 5px;
+    font-weight: 700;
+    display: inline-block;
+}
